@@ -99,8 +99,6 @@ def display_dataset_statistics(**kwargs):
 
     for key, value in kwargs.items():
         print(f"- {key}: {value}")
-
-    #return min_value, max_value, sum_values, avg_value
  
 
 while True:
