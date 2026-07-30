@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Data%20Analyzer%20and%20Transformer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Functional%20Programming%20in%20Python%20%7C%20Red%20and%20White%20Skill%20Education&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Data%20Analyzer%20and%20Transformer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
 <br/>
 
@@ -44,17 +44,14 @@
 - [FAQ](#-faq)
 - [Contributing](#-contributing)
 - [Author](#-author)
-- [Acknowledgements](#-acknowledgements)
 - [License](#-license)
 
 <br/>
 
 ## 📖 About the Project
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2800&pause=600&color=8A8A8A&center=true&vCenter=true&width=600&lines=Turning+raw+numbers+into+real+insight...;One+function+at+a+time." alt="Typing SVG" />
-
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="55" style="filter: hue-rotate(0deg) saturate(1.6);"/>
 </div>
 
 **Data Analyzer and Transformer** is a menu-driven Python console application built to demonstrate a full spectrum of **functional programming concepts** in a single, cohesive tool. Rather than writing isolated snippets for each concept, this project ties them all together into something genuinely usable: a program that takes raw **1D** and **2D** numeric data and lets you **analyze**, **filter**, and **sort** it interactively.
@@ -68,6 +65,10 @@ This project was built as part of the **"Functional Treat"** assignment at **Red
 <br/>
 
 ## 🎯 Why This Project
+
+<div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-16px.gif" width="55" style="filter: hue-rotate(25deg) saturate(1.6);"/>
+</div>
 
 Most beginner Python exercises demonstrate one concept in isolation — a lambda here, a recursive function there. This project was intentionally designed differently: **every concept had to earn its place inside a real workflow.**
 
@@ -87,7 +88,7 @@ The goal was to end up with something that feels like a **small, real analytics 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2500&pause=600&color=F75C7E&center=true&vCenter=true&width=450&lines=Recording+in+progress...+%F0%9F%8E%AC" alt="Typing SVG" />
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" width="55" style="filter: hue-rotate(50deg) saturate(1.6);"/>
 
 <!-- 🎬 Paste your demo video link below once it's ready — YouTube link works great here! -->
 <!-- Example: [![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
@@ -105,7 +106,7 @@ The goal was to end up with something that feels like a **small, real analytics 
 ## ✨ Features
 
 <div align="center">
-<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="80"/>
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="55" style="filter: hue-rotate(80deg) saturate(1.6);"/>
 </div>
 
 <table>
@@ -141,6 +142,10 @@ The goal was to end up with something that feels like a **small, real analytics 
 ## 🛠 Tech Stack
 
 <div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="55" style="filter: hue-rotate(110deg) saturate(1.6);"/>
+</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,git,github" />
 </div>
 
@@ -151,6 +156,10 @@ The goal was to end up with something that feels like a **small, real analytics 
 <br/>
 
 ## 📂 Project Structure
+
+<div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="55" style="filter: hue-rotate(140deg) saturate(1.6);"/>
+</div>
 
 ```
 Functional-Treat-RedandWhite-Python/
@@ -168,6 +177,10 @@ Functional-Treat-RedandWhite-Python/
 <br/>
 
 ## 🔄 Program Flow
+
+<div align="center">
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="55" style="filter: hue-rotate(170deg) saturate(1.6);"/>
+</div>
 
 ```mermaid
 flowchart TD
@@ -196,6 +209,10 @@ flowchart TD
 
 ## 🚀 Getting Started
 
+<div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" width="55" style="filter: hue-rotate(200deg) saturate(1.6);"/>
+</div>
+
 ### Prerequisites
 - Python **3.10+** installed (uses `match-case`, added in 3.10)
 
@@ -220,6 +237,10 @@ python index.py
 
 ## 🧭 How It Works
 
+<div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-16px.gif" width="55" style="filter: hue-rotate(230deg) saturate(1.6);"/>
+</div>
+
 The program boots into a **main menu** loop where you choose a numbered option:
 
 ```
@@ -243,6 +264,10 @@ Each option maps to a dedicated function, documented inline with a `__doc__` str
 
 ## 📚 Function Reference
 
+<div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-64.gif" width="55" style="filter: hue-rotate(260deg) saturate(1.6);"/>
+</div>
+
 | Function | Purpose | Key Concept |
 |---|---|---|
 | `input_data()` | Prompts the user for 1D or 2D data and stores it globally | `global`, built-in `input()`/`map()` |
@@ -259,6 +284,10 @@ Each option maps to a dedicated function, documented inline with a `__doc__` str
 <br/>
 
 ## 🧠 Concepts Demonstrated
+
+<div align="center">
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="55" style="filter: hue-rotate(290deg) saturate(1.6);"/>
+</div>
 
 | Concept | Where It's Used |
 |---|---|
@@ -280,6 +309,10 @@ Each option maps to a dedicated function, documented inline with a `__doc__` str
 
 ## 💡 What I Learned
 
+<div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="55" style="filter: hue-rotate(320deg) saturate(1.6);"/>
+</div>
+
 Building this project reinforced a handful of ideas that don't fully click until you've wired them into something real:
 
 - **`global` is a tool, not a habit** — using it here made clear why large programs eventually move to classes or explicit state passing.
@@ -294,6 +327,10 @@ Building this project reinforced a handful of ideas that don't fully click until
 <br/>
 
 ## ❓ FAQ
+
+<div align="center">
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-32.gif" width="55" style="filter: hue-rotate(350deg) saturate(1.6);"/>
+</div>
 
 <details>
 <summary><b>Why does the 2D array input always ask for exactly 3 rows?</b></summary>
@@ -322,7 +359,7 @@ Yes — the core logic in each function is already separated from the menu loop,
 ## 🤝 Contributing
 
 <div align="center">
-<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="80"/>
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-16px.gif" width="55" style="filter: hue-rotate(15deg) saturate(1.6);"/>
 </div>
 
 Contributions, issues, and feature requests are welcome!
@@ -349,7 +386,9 @@ Contributions, issues, and feature requests are welcome!
 
 <img src="https://github.com/PalAnghan.png" width="110" style="border-radius:50%;border:3px solid #F75C7E;margin-top:-90px;"/>
 
-### **Pal Anghan** <img width="35" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
+### **Pal Anghan**
+
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35" style="filter: hue-rotate(45deg) saturate(1.6);"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2500&pause=700&color=888888&center=true&vCenter=true&width=420&lines=Final-Year+BCA+Student;Aspiring+AI-ML+Developer;Turning+raw+data+into+readable+stories;One+array+at+a+time." alt="Typing SVG" />
 
@@ -368,19 +407,11 @@ Contributions, issues, and feature requests are welcome!
 
 <br/>
 
-## 🙏 Acknowledgements
-
-- **Red and White Skill Education** — for designing the "Functional Treat" assignment brief this project is built from
-- The Python documentation on [`functools`](https://docs.python.org/3/library/functools.html) and [`array`](https://docs.python.org/3/library/array.html) modules, referenced while building this
-- Everyone who stars, forks, or opens an issue on this repo
+## 📄 License
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
+<img src="https://github.githubassets.com/images/mona-loading-default.gif" width="55" style="filter: hue-rotate(75deg) saturate(1.6);"/>
 </div>
-
-<br/>
-
-## 📄 License
 
 This project is licensed under the **MIT License** — feel free to use, modify, and learn from it.
 
@@ -390,7 +421,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ### ⭐ If this project helped you, consider giving it a star!
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="https://github.githubassets.com/images/spinners/octocat-spinner-16px.gif" width="55" style="filter: hue-rotate(105deg) saturate(1.6);"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
