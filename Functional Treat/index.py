@@ -22,7 +22,7 @@ def input_data():
 
     if num == 1:
         OneDArray = array('i',map(int,input("\nEnter data for 1D array (separated by spaces): \n").split()))
-        TwoDArray.clear()   # Clear the previous 2D array.
+        
         
         print("\nData stored in 1D array\n")
     elif num == 2:
