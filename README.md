@@ -95,7 +95,7 @@ The goal was to end up with something that feels like a **small, real analytics 
 
 > 🎬 **Demo video!** —  https://drive.google.com/file/d/1rvfsT3jB0MC5_rlhhbVolmO05Nwe7jUJ/view?usp=sharing
 
-<img src="https://img.shields.io/badge/Video-Coming%20Soon-orange?style=for-the-badge&logo=youtube&logoColor=white" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%"/>
 
