@@ -93,7 +93,7 @@ The goal was to end up with something that feels like a **small, real analytics 
 <!-- 🎬 Paste your demo video link below once it's ready — YouTube link works great here! -->
 <!-- Example: [![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
-> 🎬 **Demo video coming soon!** — will be added right here once recorded.
+> 🎬 **Demo video!** —  https://drive.google.com/file/d/1rvfsT3jB0MC5_rlhhbVolmO05Nwe7jUJ/view?usp=sharing
 
 <img src="https://img.shields.io/badge/Video-Coming%20Soon-orange?style=for-the-badge&logo=youtube&logoColor=white" />
 
