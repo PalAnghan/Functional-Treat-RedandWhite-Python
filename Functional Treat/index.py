@@ -29,7 +29,7 @@ def input_data():
         print("\nEnter data for the 2D array (enter one row per line):\n")
 
         TwoDArray.clear()  # Clear the previous 2D array before storing new 2D data.
-        OneDArray = array('i')   # Clear the previous 1D array.
+       
         
         for i in range(3):
             row = array('i',map(int,input(f"{i + 1}:  ").split()))
